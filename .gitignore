@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+
+results/figures/
+results/metrics/
+results/models/
+*.joblib
+
+.ipynb_checkpoints/
+.DS_Store
+
+IE0435_PlanteamientoProyecto2_I-2026.pdf
